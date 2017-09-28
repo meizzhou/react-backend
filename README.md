@@ -3,9 +3,11 @@
 ## Command:
 cd react-backend
 
-npm i // this is for installing modules
+### this is for installing modules
+npm i 
 
-PORT=3001 node bin/www  // this is for starting the server
+### this is for starting the server
+PORT=3001 node bin/www 
 
 open another terminal, command + n
 
